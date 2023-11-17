@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "name": "San pham B",
+      "price": 200,
+      "desc": "Mo ta cho san pham B"
+    },
+    {
+      "id": 1,
+      "name": "San pham C",
+      "price": 200,
+      "desc": "Mo ta cho san pham C"
+    },
+    {
+      "id": 2,
+      "name": "San pham hih",
+      "price": 900,
+      "desc": "Mo ta cho san pham e"
+    },
+    {
+      "name": "San pham d",
+      "price": 400,
+      "desc": "Mo ta cho san pham d",
+      "id": 4
+    },
+    {
+      "name": "San pham d",
+      "price": 400,
+      "desc": "Mo ta cho san pham d",
+      "id": 5
+    },
+    {
+      "name": "San pham e",
+      "price": 700,
+      "desc": "Mo ta cho san pham u",
+      "id": 7
+    },
+    {
+      "name": "San pham e",
+      "price": 700,
+      "desc": "Mo ta cho san pham u",
+      "id": 8
+    },
+    {
+      "name": "San pham e",
+      "price": 800,
+      "desc": "Mo ta cho san pham u",
+      "id": 9
+    },
+    {
+      "name": "San pham e",
+      "price": 800,
+      "desc": "Mo ta cho san pham u",
+      "id": 10
+    }
+  ]
+}
